@@ -1,0 +1,11 @@
+Top-10 recommended products for user 380159:
+Rating(user=380159, product=7445935, rating=1.17059624438961)
+Rating(user=380159, product=6027, rating=0.9648801110814764)
+Rating(user=380159, product=6026, rating=0.7502231866514671)
+Rating(user=380159, product=13600075, rating=0.6788089362958778)
+Rating(user=380159, product=7892095, rating=0.4296149303420447)
+Rating(user=380159, product=5461017, rating=0.4063674939973934)
+Rating(user=380159, product=5461018, rating=0.2842903236016689)
+Rating(user=380159, product=3068320111612, rating=0.24323542426101302)
+Rating(user=380159, product=5401047, rating=0.21804765259607267)
+Rating(user=380159, product=7719715, rating=0.2110927235018505)

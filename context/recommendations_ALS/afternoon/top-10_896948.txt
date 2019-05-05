@@ -1,0 +1,11 @@
+Top-10 recommended products for user 896948:
+Rating(user=896948, product=404, rating=0.991276273707903)
+Rating(user=896948, product=303, rating=0.9907730672351098)
+Rating(user=896948, product=306, rating=0.050366547266380055)
+Rating(user=896948, product=3425909002011, rating=0.019524053002312886)
+Rating(user=896948, product=305, rating=0.011473369584388545)
+Rating(user=896948, product=302, rating=0.00954215301005979)
+Rating(user=896948, product=9999, rating=0.008233905866916767)
+Rating(user=896948, product=601, rating=0.006354095399634172)
+Rating(user=896948, product=3700205840797, rating=0.00541969854220041)
+Rating(user=896948, product=3700205840780, rating=0.005239719272640072)

@@ -1,0 +1,11 @@
+Top-10 recommended products for user 507436:
+Rating(user=507436, product=303, rating=0.9908306916701596)
+Rating(user=507436, product=404, rating=0.9887889864314936)
+Rating(user=507436, product=306, rating=0.04611638599547076)
+Rating(user=507436, product=3425909002011, rating=0.01879338516302345)
+Rating(user=507436, product=305, rating=0.010441853016122467)
+Rating(user=507436, product=302, rating=0.008585353966821491)
+Rating(user=507436, product=9999, rating=0.007242599642245381)
+Rating(user=507436, product=3700205840780, rating=0.006992229598143683)
+Rating(user=507436, product=601, rating=0.005770177639466304)
+Rating(user=507436, product=3700205840773, rating=0.005746237235987273)

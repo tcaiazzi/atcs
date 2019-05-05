@@ -36,11 +36,13 @@ for i in range(0,10):
 for cust in customers: 
 
     output = open("recommendations/top-10/top-10_"+str(cust)+".txt", "w")
+    output.write("Top-10 recommended products for user "+str(cust)+":\n")
     Reco = model.recommendProducts(cust,10)
     for rec in Reco: 
         output.write(str(rec)+"\n")
 
     output = open("recommendations/top-100/top-100_"+str(cust)+".txt", "w")
+    output.write("Top-100 recommended products for user "+str(cust)+":\n")
     Reco = model.recommendProducts(cust,100)
     for rec in Reco: 
         output.write(str(rec)+"\n")

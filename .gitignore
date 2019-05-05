@@ -1,5 +1,9 @@
 
-als/recommendations/
+
 .vscode
 Customer_product_purchases.csv
 transactions.csv
+*.pyc
+context/data
+context/models
+

@@ -1,0 +1,11 @@
+Top-10 recommended products for user 607335:
+Rating(user=607335, product=404, rating=0.9651068033318875)
+Rating(user=607335, product=401, rating=0.9514714095859476)
+Rating(user=607335, product=12520039, rating=0.26499906850715294)
+Rating(user=607335, product=451, rating=0.23144473763245987)
+Rating(user=607335, product=3425909001014, rating=0.18415089975743082)
+Rating(user=607335, product=6026, rating=0.1609261430444503)
+Rating(user=607335, product=13600075, rating=0.15391777614696242)
+Rating(user=607335, product=3217770310902, rating=0.14121693903477378)
+Rating(user=607335, product=3174780000363, rating=0.13140297497621117)
+Rating(user=607335, product=45855993, rating=0.13076635708694134)

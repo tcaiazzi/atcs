@@ -1,0 +1,11 @@
+Top-10 recommended products for user 1158252:
+Rating(user=1158252, product=6026, rating=1.0038684625252836)
+Rating(user=1158252, product=6027, rating=0.9884715245395207)
+Rating(user=1158252, product=7445935, rating=0.9592737073635481)
+Rating(user=1158252, product=7892095, rating=0.4339685278276597)
+Rating(user=1158252, product=5461017, rating=0.380273060446203)
+Rating(user=1158252, product=5461018, rating=0.30839153869577673)
+Rating(user=1158252, product=7719715, rating=0.2606417169104293)
+Rating(user=1158252, product=5461031, rating=0.24458294632959476)
+Rating(user=1158252, product=7770415, rating=0.23754036696501113)
+Rating(user=1158252, product=5450079, rating=0.22443102518088454)

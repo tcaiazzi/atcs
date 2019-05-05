@@ -1,0 +1,11 @@
+Top-10 recommended products for user 521472:
+Rating(user=521472, product=401, rating=0.8010985625497973)
+Rating(user=521472, product=3646779, rating=0.5837293112587292)
+Rating(user=521472, product=3610017, rating=0.5116365860874215)
+Rating(user=521472, product=6461023, rating=0.41928567479277024)
+Rating(user=521472, product=3119857, rating=0.40090763197634127)
+Rating(user=521472, product=2072140, rating=0.3685648127013655)
+Rating(user=521472, product=6461013, rating=0.36158745676819215)
+Rating(user=521472, product=2066013, rating=0.344118617789969)
+Rating(user=521472, product=3708049, rating=0.3345645293166676)
+Rating(user=521472, product=3138238, rating=0.2492789311097997)

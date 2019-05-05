@@ -1,0 +1,11 @@
+Top-10 recommended products for user 111270:
+Rating(user=111270, product=45855993, rating=0.9478308842022596)
+Rating(user=111270, product=401, rating=0.7241511415356714)
+Rating(user=111270, product=18064205, rating=0.5007895417826953)
+Rating(user=111270, product=3461039, rating=0.4580343542682229)
+Rating(user=111270, product=3461025, rating=0.3807628348452632)
+Rating(user=111270, product=2850269, rating=0.3499828175105966)
+Rating(user=111270, product=3425909000482, rating=0.29555452969674795)
+Rating(user=111270, product=3450011, rating=0.29355446486843434)
+Rating(user=111270, product=3461026, rating=0.2740952634639253)
+Rating(user=111270, product=3461023, rating=0.27282517984701854)

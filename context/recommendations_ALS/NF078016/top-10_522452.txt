@@ -1,0 +1,11 @@
+Top-10 recommended products for user 522452:
+Rating(user=522452, product=6026, rating=1.0515560590931086)
+Rating(user=522452, product=3646779, rating=0.8298459683105837)
+Rating(user=522452, product=3610017, rating=0.721341868572669)
+Rating(user=522452, product=6461023, rating=0.5977404728189257)
+Rating(user=522452, product=3119857, rating=0.5916837975512743)
+Rating(user=522452, product=6027, rating=0.5760090329389926)
+Rating(user=522452, product=6461013, rating=0.5142608383273088)
+Rating(user=522452, product=2072140, rating=0.5122447390429476)
+Rating(user=522452, product=2066013, rating=0.4875721988314228)
+Rating(user=522452, product=3708049, rating=0.4759485895487162)

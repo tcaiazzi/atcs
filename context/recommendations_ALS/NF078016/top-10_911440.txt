@@ -1,0 +1,11 @@
+Top-10 recommended products for user 911440:
+Rating(user=911440, product=6026, rating=1.1390537807715042)
+Rating(user=911440, product=45855993, rating=0.8052699453669134)
+Rating(user=911440, product=13600075, rating=0.7538690305271891)
+Rating(user=911440, product=6027, rating=0.7525263067066537)
+Rating(user=911440, product=19419902, rating=0.3826213941348002)
+Rating(user=911440, product=4190175, rating=0.3281179796184219)
+Rating(user=911440, product=3068320111612, rating=0.27153720746370846)
+Rating(user=911440, product=1212002, rating=0.26156506910815575)
+Rating(user=911440, product=3461030, rating=0.25475933468270007)
+Rating(user=911440, product=18064205, rating=0.25426376212176255)

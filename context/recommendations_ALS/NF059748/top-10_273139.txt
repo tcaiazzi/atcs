@@ -1,0 +1,11 @@
+Top-10 recommended products for user 273139:
+Rating(user=273139, product=45855993, rating=0.8645417887796372)
+Rating(user=273139, product=19419902, rating=0.5701444043657258)
+Rating(user=273139, product=4190175, rating=0.3917574984544523)
+Rating(user=273139, product=45178145, rating=0.24373597304875402)
+Rating(user=273139, product=3461030, rating=0.1764246391964685)
+Rating(user=273139, product=6026, rating=0.1385390780596305)
+Rating(user=273139, product=21453447, rating=0.1311523101333336)
+Rating(user=273139, product=46307892, rating=0.11689934499543433)
+Rating(user=273139, product=45404094, rating=0.09540776884145749)
+Rating(user=273139, product=3401006, rating=0.08581713356985624)
