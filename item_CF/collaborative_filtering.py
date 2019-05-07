@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import scipy.sparse as sparse
-from pyspark import SparkConf, SparkContext
 import sklearn.preprocessing as pp
 import random
 import os
